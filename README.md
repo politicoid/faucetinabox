@@ -1,4 +1,7 @@
-# FaucetInABox
+# QuizInABox
+Quiz in a BOX is based on FaucetInABox and includes the ability to create quiz questions that users must answer in order to earn rewards.
+
+# Original FaucetInABox
 Faucet in a BOX is ported edition of the original script, which can be found here: https://faucetinabox.com/ This version adds FaucetFly.com integration. Please feel free to open pull requests for more updates.
 
 <h2>Script Features</h2>
